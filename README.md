@@ -14,4 +14,4 @@ Welcome to Space Explorer, the ultimate retro-inspired space shooter where you p
 ## Requirements
 
 - **Python 3.x** - Get the latest version for smooth gameplay.
-- **Pygame:** Install via - ``pip install pygame``
+- **Pygame** - Install via - ``pip install pygame``

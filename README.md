@@ -6,12 +6,12 @@ Welcome to Space Explorer, the ultimate retro-inspired space shooter where you p
 
 ## Features
 
-- **Epic Space Battles:** Engage in intense shootouts with incoming asteroids and enemy spacecraft.
-- **Slick Controls:** Steer with the arrow keys and unleash a barrage of laser fire with the spacebar.
-- **Poni Power:** Rack up ponis with every enemy destroyed and watch your high score soar!
-- **Retro Vibes:** Classic arcade action fused with modern gameplay dynamics.
+- **Epic Space Battles** - Engage in intense shootouts with incoming asteroids and enemy spacecraft.
+- **Slick Controls** - Steer with the arrow keys and unleash a barrage of laser fire with the spacebar.
+- **Poni Power** - Rack up ponis with every enemy destroyed and watch your high score soar!
+- **Retro Vibes** - Classic arcade action fused with modern gameplay dynamics.
 
 ## Requirements
 
-- **Python 3.x** – Get the latest version for smooth gameplay.
-- **Pygame:** Install via: ``pip install pygame``
+- **Python 3.x** - Get the latest version for smooth gameplay.
+- **Pygame:** Install via - ``pip install pygame``
